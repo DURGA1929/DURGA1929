@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MAHADURGA
-- 👀 A PASSIONATE WEB DEVELOPER FROM INDIA
+- 👀 A PASSIONATE DATA ANALYST
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on PROJECTS 
 - 📫 How to reach me md29092004@gmail.com 
