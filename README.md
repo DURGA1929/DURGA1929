@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MAHADURGA
 - 👀 A PASSIONATE DATA ANALYST
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning POWER BI
 - 💞️ I’m looking to collaborate on PROJECTS 
 - 📫 How to reach me md29092004@gmail.com 
 - ⚡ Fun fact: I AM VERY FUNNY.
